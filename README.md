@@ -4,11 +4,11 @@
 
 ### Project Scope: 
 
-This was a single day challenge sprint where I built a simple Task Tracking app that allows you to enter tasks & track the progress.
+This was a single day challenge sprint where I built a Simple Task Tracking app that allows you to enter tasks & track the progress.
 
-***Client Requirements:***
-[x] Have data saved
-[x] Be able to add tasks with various fields:
+***Key Requirements:***
+[] Have data saved
+- Be able to add tasks with various fields:
     - Task Name
     - Task Description
     - Task Status
@@ -20,9 +20,9 @@ This was a single day challenge sprint where I built a simple Task Tracking app 
         - Medium
         - High
     - Due Date
-[x] Be able to edit tasks
-[x] When changing status the item should move to the appropriate spot without refreshing the page
-[x] Use creating elements
-[x] Must use import and export (see local storage js file)
-[x] tested
-[x] Desktop build for this application
+- Be able to edit tasks
+- When changing status the item should move to the appropriate spot without refreshing the page
+- Use creating elements
+- Must use import and export (see local storage js file)
+- tested
+- Desktop build for this application
