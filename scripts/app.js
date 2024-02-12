@@ -114,7 +114,6 @@ saveTaskInfo.addEventListener('click', () => {
     }
 });
 
-
 // Delete Task on Modal
 yesDeleteBtn.addEventListener('click', () => {
     removeFromLocalStorage({
