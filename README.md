@@ -7,7 +7,7 @@
 This was a single day challenge sprint where I built a Simple Task Tracking app that allows you to enter tasks & track the progress.
 
 ***Key Requirements:***
-[] Have data saved
+- Have data saved
 - Be able to add tasks with various fields:
     - Task Name
     - Task Description
