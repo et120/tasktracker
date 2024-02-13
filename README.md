@@ -1,14 +1,14 @@
-# Task Tracker
+# Task Tracker &nbsp;&nbsp;<a href="https://tasktracker-ashen.vercel.app/">![Website](https://img.shields.io/website?url=https%3A%2F%2Ftasktracker-ashen.vercel.app%2F&up_message=ONLINE&up_color=355E3B&down_message=OFFLINE&down_color=8B0000&style=for-the-badge&logo=vercel)</a>
 
 **Name:** Elizabeth Trotter
 
 ### Project Scope: 
 
-This was a single day challenge sprint where I built a Simple Task Tracking app that allows you to enter tasks & track the progress.
+This was a `single day sprint` challenge where I built out a `simple task tracking app` that allows you to enter tasks & track the progress. This was a `desktop build` that utilized `vanilla JavaScript`, `HTML`, & the `Bootstrap Framework`. The project focused on functionality first, meeting the client's requirements, and supplying a working project prior to the deadline. There is opportunity to improve the design & responsiveness, if desired. 
 
-***Key Requirements:***
-- Have data saved
-- Be able to add tasks with various fields:
+***Client Requirements:***
+- [x] Have data saved
+- [x] Be able to add tasks with various fields:
     - Task Name
     - Task Description
     - Task Status
@@ -20,9 +20,13 @@ This was a single day challenge sprint where I built a Simple Task Tracking app 
         - Medium
         - High
     - Due Date
-- Be able to edit tasks
-- When changing status the item should move to the appropriate spot without refreshing the page
-- Use creating elements
-- Must use import and export (see local storage js file)
-- tested
-- Desktop build for this application
+- [x] Be able to edit tasks
+- [x] When changing status the item should move to the appropriate spot without refreshing the page
+- [x] Use creating elements
+- [x] Must use import and export (see local storage js file)
+- [x] Tested
+- [x] Desktop build for this application
+
+### Desktop Preview
+![Desktop preview](./assets/image.png)
+<p align="right">Figure 1: Desktop preview of tracker in action while viewing / deleting a chosen task</p>
