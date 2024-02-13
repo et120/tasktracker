@@ -91,7 +91,7 @@ function populate() {
 
     toDoCount.textContent = toDoCounter;
     inProgressCount.textContent = inProgressCounter;
-    completedCount.textContentt = completedCounter;
+    completedCount.textContent = completedCounter;
 }
 
 // Onload
