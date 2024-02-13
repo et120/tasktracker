@@ -4,7 +4,10 @@
 
 ### Project Scope: 
 
-This was a `single day sprint` challenge where I built out a `simple task tracking app` that allows you to enter tasks & track the progress. This was a `desktop build` that utilized `vanilla JavaScript`, `HTML`, & the `Bootstrap Framework`. The project focused on functionality first, meeting the client's requirements, and supplying a working project prior to the deadline. There is opportunity to improve the design & responsiveness, if desired. 
+This was a `single day sprint` challenge where I built out a `simple task tracking app` that allows you to enter tasks and track the progress. This was a `desktop build` that utilized `vanilla JavaScript`, `HTML`, and the `Bootstrap Framework`. Click [here](#desktop-preview) to see a preview of the task tracking app in action or check the status badge above to view the deployed website.
+
+> [!NOTE]  
+> The project focused on functionality first, meeting the client's requirements, and supplying a working product prior to the deadline. There is opportunity to improve the design and responsiveness, if desired. 
 
 ***Client Requirements:***
 - [x] Have data saved
