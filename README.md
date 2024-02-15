@@ -4,11 +4,14 @@
 
 ### Project Scope: 
 
-This was a `single day sprint` challenge where I built out a `simple task tracking app` that allows you to enter tasks and track the progress. This was a `desktop build` that utilized `vanilla JavaScript`, `HTML`, and the `Bootstrap Framework`. 
-- Click :point_right: [here](#desktop-preview) to scroll down to a preview of the task tracking app in action or check the status badge above to view the deployed website.
+This was a `Time-Crunch Sprint` challenge where I built out a `simple task tracking app` that allows you to enter tasks and track the progress. This was a `desktop build` that utilized `vanilla JavaScript`, `HTML`, and the `Bootstrap Framework`. 
 
-> [!NOTE]  
-> The project focused on functionality first, meeting the client's requirements, and supplying a working product prior to the deadline. There is opportunity to improve the design and responsiveness, if desired. 
+- Meeting the tight deadline was a challenge, but I had the opportunity to practice more with `creating elements` within JavaScript and working with `local storage`. I think this challenge was my most successful attempt for this series.
+
+- Click :point_right: [here](#time-crunch-challenges) to scroll down to view other challenges in this series.
+
+> [!IMPORTANT]  
+> This project was part of a sprint challenge series that focused on functionality first, meeting the client's requirements, and supplying a working product prior to the time-crunched deadline. **There is opportunity to improve the UI & UX design and responsiveness, if desired.**
 
 ***Client Requirements:***
 - [x] Have data saved
@@ -27,9 +30,22 @@ This was a `single day sprint` challenge where I built out a `simple task tracki
 - [x] Be able to edit tasks
 - [x] When changing status the item should move to the appropriate spot without refreshing the page
 - [x] Use creating elements
-- [x] Must use import and export (see local storage js file)
+- [x] Must use import and export
 - [x] Tested
 - [x] Desktop build for this application
+&nbsp;
+---
+
+### Time-Crunch Challenges
+
+| Sprint | Repo Name | Description |
+| --- | --- | --- |
+| Day 1 | [Task Tracker](https://github.com/et120/tasktracker) | Enter tasks & track the progress | 
+| Day 2 | [Random Group Generator](https://github.com/et120/randomnamegeneratorgroups) | Enter names & generate random groups |
+| Day 3 | [Sorting Data](https://github.com/et120/sortingdata) | Sort in ascending & descending order in each field |
+| Day 4 | [Budget App](https://github.com/et120/budgetapp) | Set a budget & add expenses |
+
+---
 
 ### Desktop Preview
 ![Desktop preview](./assets/image.png)
